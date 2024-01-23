@@ -1,0 +1,4 @@
+remote repository
+local repository
+staging area
+working directory
